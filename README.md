@@ -77,3 +77,5 @@ Open both `index_vault.py` and `grok with UI.py` and adjust the following paths 
     The GUI will appear, and you can start chatting with your notes!
 
 --- 
+
+This script is specific to my note taking styles which include quick notes as well as much larger notes that feature a top level summary before introducing the transcript. Thus it has markers for ## Overall Summary and # Transcript for files in a specific folder. This can be ommited or changes for you specific style
