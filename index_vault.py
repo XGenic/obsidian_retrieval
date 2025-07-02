@@ -14,7 +14,7 @@ load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") 
 
 # 2. Set the absolute path to your Obsidian vault.
-OBSIDIAN_VAULT_PATH = "C:/Users/Denis/Documents/Obsidian Vault"
+OBSIDIAN_VAULT_PATH = "C:/Users/_____/Documents/Obsidian Vault"
 
 # 3. Set the path where you want to store your ChromaDB database.
 CHROMA_DB_PATH = "D:/Documents/chromadb"
